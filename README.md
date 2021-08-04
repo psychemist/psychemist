@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @110nard0
+- 👋 Hey there! I’m @110nard0
 - 🎡 I’m charting a non-traditional path into tech, starting with a foray into fullstack web development
 - ☕ I'm currently learning JavaScript to enable me solidify my knowledge of the front-end
-- 💞️ I’m looking to collaborate on beginner-friendly projects that will boost my HTML/CSS skills
-- 🎭 Check out what I'm curretly working on on codepen.io/110nard0/pens/public
+- 💞️ I'm always looking to collaborate on beginner-friendly projects that will boost my HTML/CSS skills
+- 🎭 Check out what I'm currently working on: codepen.io/110nard0/pens/public
 - 📫 How to reach me: @ikugami on twitter.com and ikeagudike@gmail.com
 
 <!---
