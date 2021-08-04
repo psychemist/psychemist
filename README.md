@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @110nard0
-- 👀 I’m interested in blockchain technology and its applications in our emerging web3 society
-- 🌱 I’m currently learning HTML/CSS/JavaScript and React
-- 💞️ I’m looking to collaborate on front-end and other beginner-friendly projects
+- 🎡 I’m charting a non-traditional path into tech, starting with a foray into fullstack web development
+- ☕ I'm currently learning JavaScript to enable me solidify my knowledge of the front-end
+- 💞️ I’m looking to collaborate on beginner-friendly projects that will boost my HTML/CSS skills
+- 🎭 Check out what I'm curretly working on on codepen.io/110nard0/pens/public
 - 📫 How to reach me: @ikugami on twitter.com and ikeagudike@gmail.com
 
 <!---
