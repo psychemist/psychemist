@@ -1,9 +1,9 @@
-- 👋 Hey there! I’m @110nard0
+- 👋🏽 Hey there! I’m @110nard0
 - 🎡 I’m charting a non-traditional path into tech, starting with a foray into fullstack web development
 - ☕ I'm currently learning JavaScript to enable me solidify my knowledge of the front-end
-- 💞️ I'm always looking to collaborate on beginner-friendly projects that will boost my HTML/CSS skills
+- 👉🏾👈🏾 I'm always looking to collaborate on beginner-friendly projects that will boost my HTML/CSS skills
 - 🎭 Check out what I'm currently working on: codepen.io/110nard0/pens/public
-- 📫 How to reach me: @ikugami on twitter.com and ikeagudike@gmail.com
+- 📫 How to reach me: ikeagudike@gmail.com and @110nard0 on twitter.com
 
 <!---
 110nard0/110nard0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
