@@ -1,1 +1,1 @@
-mad scientist. wizard. human.
+engineer. scientist. magician.
