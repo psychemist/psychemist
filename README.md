@@ -1,1 +1,1 @@
-compiuter science nerd. math geek.
+computer science nerd. math geek.
