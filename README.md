@@ -1,1 +1,1 @@
-engineer. scientist. artist. sorcerer. 
+compiuter science nerd. math geek.
