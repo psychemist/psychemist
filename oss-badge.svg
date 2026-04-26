@@ -49,9 +49,9 @@
   <rect class="card" x="146" y="91" width="108" height="70" rx="10"/>
   <rect class="card" x="270" y="91" width="108" height="70" rx="10"/>
   <!-- Stats -->
-  <text class="stat-value" x="76" y="123" text-anchor="middle">38</text>
+  <text class="stat-value" x="76" y="123" text-anchor="middle">39</text>
   <text class="stat-label" x="76" y="144" text-anchor="middle">PROJECTS</text>
-  <text class="stat-value" x="200" y="123" text-anchor="middle">75</text>
+  <text class="stat-value" x="200" y="123" text-anchor="middle">76</text>
   <text class="stat-label" x="200" y="144" text-anchor="middle">PRS MERGED</text>
   <text class="stat-value" x="324" y="123" text-anchor="middle">578.9K</text>
   <text class="stat-label" x="324" y="144" text-anchor="middle">LINES CHANGED</text>
